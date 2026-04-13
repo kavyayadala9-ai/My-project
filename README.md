@@ -1,2 +1,2 @@
 # My-project
-This project is created to practice GitHub basics like creating a repository, adding a README file, and learning version control.
+This repository contains the source code for My Project, a simple application to demonstrate GIT usage.
